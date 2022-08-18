@@ -57,7 +57,7 @@ export const Contact = () => {
           <form ref={form} onSubmit={sendEmail}>
             < input type="text"  name='name' placeholder='Your full name'  required/>
             < input type="email" name="email" placeholder="Your Emial " required/>
-            <textarea name='message ' rows="7" placeholder='Your message' required></textarea>
+            <textarea name='message' rows="7" placeholder='Your message' required></textarea>
             <div class="login-box">
               <button className="submitbtn">Submit</button>
 
