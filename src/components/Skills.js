@@ -187,13 +187,7 @@ export const Skills = () => {
                                   </div>
                                 </article>
 
-                                <article className='experience__details'>
-                                  <BsPatchCheckFill className='experience__details-icon'/>
-                                  <div>
-                                    <h5>PostgreSQL</h5>
-                                  <small className='text-light'>Intermediate</small>
-                                  </div>
-                                </article>
+                               
 
                                 <article className='experience__details'>
                                   <BsPatchCheckFill className='experience__details-icon'/>
